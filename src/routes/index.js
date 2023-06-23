@@ -10,4 +10,3 @@ router.get('/contact', (req, res) => res.render('contact'))
 
 export default router;
 
-//A ver si es cierto
